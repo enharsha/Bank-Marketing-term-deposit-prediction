@@ -1,2 +1,2 @@
 # Bank-Marketing-term-deposit-prediction
-Predicting whether a customer will subscribe to term deposit based on bank marketing campaign.
+Based on the dataset from UCI Machine Learning repository of a Portuguese bank, I have performed exploratory data analysis and visualization, and fit a logistic regression model to predict whether a customer will subscribe to a term deposit or not. I have further used regularization and hyperparameter tuning by cross validation and concluded that it gives a better accuracy and tradeoff between precision and recall as compared to standard model. I have concluded with futher steps and solutions for the banking institution based on the analysis.
